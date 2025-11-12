@@ -1,0 +1,25 @@
+{
+  "email": {
+    "server": "imap.gmail.com",
+    "address": "your-email@example.com",
+    "password": "your-app-specific-password",
+    "port": 993,
+    "folder": "INBOX",
+    "unread_only": true
+  },
+  "sharepoint": {
+    "tenant_id": "your-tenant-id",
+    "client_id": "your-client-id",
+    "client_secret": "your-client-secret",
+    "site_name": "YourSiteName",
+    "list_name": "YourListName"
+  },
+  "review": {
+    "use_ai": false,
+    "openai_api_key": "your-openai-api-key-if-using-ai"
+  },
+  "agent": {
+    "mark_as_read": true,
+    "email_limit": 10
+  }
+}

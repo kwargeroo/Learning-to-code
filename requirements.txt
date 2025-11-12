@@ -1,0 +1,16 @@
+# Email processing
+email-validator==2.1.0
+python-dotenv==1.0.0
+
+# Microsoft Graph API for SharePoint
+msal==1.31.0
+msgraph-sdk==1.10.0
+
+# HTTP requests
+requests==2.31.0
+
+# AI/LLM integration (optional - for intelligent review)
+openai==1.51.0
+
+# Utilities
+python-dateutil==2.8.2
